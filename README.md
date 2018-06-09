@@ -1,2 +1,1 @@
-Learning how to implement tf estimator!
-
+Working through ~Artificial Intelligence with Python~ by ~Packt~.
